@@ -1,4 +1,4 @@
-<h1> Hi there 👋  </h1>
+<h1> Olá 👋  </h1>
 
 <h2>Eu sou Edinardo de Melo Pereira, sou programador Front end, atualmente estou aprendendo e criando projetos com:</h2>
 <br>
